@@ -6,7 +6,7 @@ import { Github } from "lucide-react";
 
 export const GitHubButton: React.FC = () => {
   // Menggunakan URL placeholder. Anda dapat menggantinya dengan URL repositori GitHub Anda.
-  const githubRepoUrl = "https://github.com/kodester/cloudflare-r2-uploader-demo"; 
+  const githubRepoUrl = "https://github.com/MauCariApa-com/demo-cf-r2"; 
 
   return (
     <a href={githubRepoUrl} target="_blank" rel="noopener noreferrer">
